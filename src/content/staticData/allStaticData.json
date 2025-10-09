@@ -3,15 +3,15 @@
   "profileAlt": "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
   "profileLink": "/about-me",
   "profileTitle": "FrontEnd Developer",
-  "profileName": "Fernando López",
-  "github": "https://github.com/EFEELE/NeonMint",
+  "profileName": "Raul Calsin",
+  "github": "https://github.com/R4CAIN",
   "githubText": "Do you like this blog's design?",
   "portfolioImage": "/images/portfolio.webp",
-  "email": "hello@efeele.dev",
-  "linkedin": "https://www.linkedin.com/in/efeele/",
-  "instagram": "https://www.instagram.com/efeele.dev/",
+  "email": "raulncalsin@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/raulcalsin/",
+  "instagram": "https://www.instagram.com/racalsin/",
   "youtube": "https://www.youtube.com/@efeeledev",
-  "alias": "EFEELE",
+  "alias": "R4CaiN",
   "contactSectionTitle": "Ready to take your idea to the next level?",
   "contactSectionSubtitle": "Let's work together.",
   "contactSectionButtonText": "Contact Me",
@@ -34,6 +34,6 @@
   "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
   "OGImage": {
     "url": "/images/imagedefault.webp",
-    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Fernando López, a Frontend Developer with 8 years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, TypeScript, Angular, Node.js, CSS, Tailwind, and more."
+    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Raul Calsin, a Frontend Developer with 8 years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, TypeScript, Angular, Node.js, CSS, Tailwind, and more."
   }
 }

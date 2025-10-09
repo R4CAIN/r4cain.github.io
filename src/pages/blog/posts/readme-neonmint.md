@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/MarkdownPostLayout.astro
 title: NeonMint Template Documentation
-author: Fernando López
+author: Raul Calsin
 description: "NeonMint is a modern, minimalist template crafted for developers and digital creatives. Its dark-themed layout with mint green highlights delivers a sleek, elegant, and functional visual experience—perfect for portfolios, dashboards, or tech landing pages."
 image:
   url: "/images/projects/neonmint.webp"
